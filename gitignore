@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data & models (regenerate via scripts instead of committing large files)
+machine_sensor_data.csv
+model.pkl
+
+# Secrets — NEVER commit these
+*.env
+config.json
+endpoint_keys.txt
+
+# OS files
+.DS_Store
+Thumbs.db
