@@ -73,11 +73,14 @@ The best-performing model (Logistic Regression) was selected for deployment base
 
 | Sensor readings over time | Class balance |
 |---|---|
-| ![Sensor time series](docs/screenshots/output_1_sensor_timeseries.png) | ![Class balance](docs/screenshots/output_2_class_balance.png) |
+| ![Sensor time series]<img width="1300" height="910" alt="output_1_sensor_timeseries" src="https://github.com/user-attachments/assets/426955d5-f2ba-4169-9bf0-9375d9c6a29d" />
+| ![Class balance]  <img width="650" height="520" alt="output_2_class_balance" src="https://github.com/user-attachments/assets/2c34845a-5606-4a94-b2b2-5452b655e457" />
+ |
 
 | Confusion matrix | Feature importance |
 |---|---|
-| ![Confusion matrix](docs/screenshots/output_3_confusion_matrix.png) | ![Feature importance](docs/screenshots/output_4_feature_importance.png) |
+| ![Confusion matrix] <img width="650" height="585" alt="output_3_confusion_matrix" src="https://github.com/user-attachments/assets/7737c53f-9186-43a2-af97-8c0451b7507f" />
+| ![Feature importance] <img width="780" height="455" alt="output_4_feature_importance" src="https://github.com/user-attachments/assets/4cf51e14-ce63-4572-80a4-25ef4a7c89c5" /> |
 
 ---
 
