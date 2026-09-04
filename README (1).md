@@ -174,4 +174,4 @@ This project is open-sourced under the MIT License — feel free to fork and ada
 
 ## 🙋 Author
 
-Built by [Your Name] as a hands-on project exploring Industrial IoT and predictive maintenance using Azure Machine Learning.
+Built by Ayush Rajak as a hands-on project exploring Industrial IoT and predictive maintenance using Azure Machine Learning.
